@@ -8,7 +8,7 @@ Install all of the required modules in order for this Dapp to work.
 npm install
 ```
 ## Running the Dapp
-1. Open a terminal in the directory / folder of the iExec App Manager. 
+1. Open a terminal in the directory / folder of the iExec Dapp Manager. 
 2. Run the Dapp with the following line:
 ```bash
 npm start
