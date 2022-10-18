@@ -1,4 +1,4 @@
-# iExec App Manager
+# iExec Dapp Manager
 
 ## Installation
 
