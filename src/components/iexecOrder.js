@@ -8,7 +8,7 @@ const publishOrder = (iexec, app_address, app_price, app_volume, nft_restrict) =
       const appprice = app_price;
       const volume = app_volume
       const datasetrestrict = nft_restrict;
-      const tag = "0x0000000000000000000000000000000000000000000000000000000000000001";
+      const tag = "0x0000000000000000000000000000000000000000000000000000000000000000";
       const signedOrder = await iexec.order.signApporder(
         await iexec.order.createApporder({
           app,
